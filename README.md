@@ -142,8 +142,19 @@ The author is not responsible for any misuse of the information provided in this
 
 ---
 
+## 📚 References & Standards
+This laboratory was built in accordance with the following industry standards and documentation:
+
+* **OWASP Top 10 (2021):** The standard awareness document for developers and web application security.
+* **MITRE CWE (Common Weakness Enumeration):** For precise definitions of software vulnerabilities.
+* **OWASP Cheat Sheet Series:** For implementation of specific defense mechanisms (Input Validation, Query Parameterization).
+* **Flask Documentation:** For secure implementation of web server logic in Python.
+
+---
+
 ## 👤 Author
 **GhxstOSINT**
 * **Role:** Cybersecurity Enthusiast
 * **Focus:** Application Security, CTF.
 * www.linkedin.com/in/akshxykumxr | github.com/GhxxstOSINT
+
